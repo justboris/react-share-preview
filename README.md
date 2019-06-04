@@ -1,4 +1,4 @@
-# Drupal 8 and React Hydrate
+# Drupal 8 and React Share Preview (Work in progress)
 
 ## What is this?
 This is a work in progress module that aim to accomplish the folowing:
